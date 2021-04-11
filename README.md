@@ -25,8 +25,8 @@ This repository contains some projects (mostly mini-projects) related to data sc
 <h3><details>
 	<summary> Analysing BasketBall Performance</summary>
 	<table>
-		<th><a href="Main/BasketBall">Visit Directory ↗</a></th>
-		<th><img width="500px" src="Main/BasketBall/img.png"></th>
+		<th><a href="Main/Basketball">Visit Directory ↗</a></th>
+		<th><img width="500px" src="Main/Basketball/img.png"></th>
 	</table>
 </details></h3>
 <h3><details>
