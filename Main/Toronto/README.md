@@ -21,7 +21,7 @@ Suppose you want to shift somewhere else in the city beacause you got a new job 
 
 Now you can choose where you should shift your resident to so that you have to travel minimum for work while getting the same facilities as your previous neighbourhood. I've used the city of `Toronto`, but this method can be applied to any city. 
 
-See the code here [part 1](Neighborhood_Analysis_of_Toronto_1), [part 2](Neighborhood_Analysis_of_Toronto_2).
+See the code here [part 1](Neighborhood_Analysis_of_Toronto_1.ipynb), [part 2](Neighborhood_Analysis_of_Toronto_2.ipynb).
 
 **Note : Folium maps are not loading on github. To see the maps you have to run the notebook on your preferred environment and don't forget to make the notebook `Trusted`.**
 
